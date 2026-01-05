@@ -1,49 +1,53 @@
+<p align="right">
+  <a href="./README.fr.md">Français</a> ·
+  <a href="./README.de.md">Deutsch</a>
+</p>
+
 # Origin Studio
 
-🇨🇭 **Origin Studio** est une agence digitale suisse spécialisée dans le **développement web sur mesure** et les **automatisations intelligentes**.  
-Nous concevons des solutions performantes, durables et adaptées aux besoins réels des entreprises.
+🇨🇭 **Origin Studio** is a Swiss digital agency focused on **custom web development** and **process automation**.
+
+We design reliable, scalable solutions tailored to real business needs.
 
 ---
 
-## Ce que nous faisons
+## What we do
 
-- Développement de sites et applications web sur mesure  
-- Automatisations de processus (business, back-office, workflows)  
-- Intégrations d’outils et d’API  
-- UX / UI orienté performance et clarté  
-- Hébergement et infrastructures en Suisse
-
----
-
-## Notre approche
-
-- Code propre, maintenable et documenté  
-- Solutions pensées pour durer  
-- Communication simple et transparente  
-- Données hébergées et protégées en Suisse
+- Custom websites & web applications  
+- Business process automation & workflows  
+- API & tool integrations  
+- UX / UI focused on clarity and performance  
+- Swiss-based hosting & infrastructure
 
 ---
 
-## Stack principale
+## Our approach
+
+- Clean, maintainable code  
+- Long-term oriented solutions  
+- Clear and transparent communication  
+- Data hosted and secured in Switzerland
+
+---
+
+## Core stack
 
 - Next.js / React  
 - Tailwind CSS  
 - Node.js  
 - PostgreSQL / MongoDB  
 - GitHub  
-- Infomaniak (hébergement CH)
+- Infomaniak (CH hosting)
 
 ---
 
-## L’équipe
+## Team
 
 - **Thomas** — Frontend & UI  
 - **Eric** — Backend & architecture  
-- **Chadi** — Relation client & stratégie
+- **Chadi** — Client relations & strategy
 
 ---
-
-## En savoir plus
 
 🌐 https://origin-studio.ch  
 📩 contact@origin-studio.ch
